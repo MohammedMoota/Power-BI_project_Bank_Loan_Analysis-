@@ -1,17 +1,17 @@
 
 
-## 📃 Executive Summary
+##  Executive Summary
 This Power BI project provides a comprehensive analysis of a bank's lending portfolio, designed to support data-driven financial decisions. By transforming raw lending data into an interactive dashboard, this tool enables stakeholders to monitor portfolio health, identify high-risk borrowers, and track regional lending trends.
 
 The analysis focuses on distinguishing between **"Good Loans"** (Fully Paid) and **"Bad Loans"** (Charged Off) to assist the risk management team in minimizing default rates.
 
-## 🔑 Key Metrics
+##  Key Metrics
 * **Total Applications:** 38.6K
 * **Total Funded Amount:** $435.8M
 * **Average Interest Rate:** 12.0%
 * **Good Loan Percentage:** 86.2% (Derived from 33.2K Good Loan Applications)
 
-## 💻 Dashboard Structure
+##  Dashboard Structure
 The report is structured into three strategic views, catering to different levels of management:
 
 ### 1. Synopsis (Executive View)
@@ -32,7 +32,7 @@ A granular grid view allowing credit analysts to audit individual loan records. 
 
 <img width="1258" height="706" alt="Details Dashboard" src="https://github.com/user-attachments/assets/d65b02f8-739d-45ce-b62f-397646258698" />
 
-## 🛠 Tech Stack & Skills
+##  Tech Stack & Skills
 * **Power BI:** Data visualization, interactive reporting, and bookmark navigation.
 * **DAX (Data Analysis Expressions):** Complex calculations for Time Intelligence (MoM/MTD) and risk ratios.
 * **Data Modelling:** Star schema design for optimized performance.
